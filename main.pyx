@@ -1,3 +1,4 @@
+#language_level=3
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 import gestures as gs
